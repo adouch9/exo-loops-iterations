@@ -14,4 +14,4 @@ for (let i = 0; i < tab.length; ++i) {
     }
 
 }
-console.log(`Today, nb users = ${nbUsers}`)
+console.log(`nb users = ${nbUsers}`)
